@@ -2,7 +2,9 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://ibarrasb.github.io/eduardo-portfolio-react/">Eddie</a>.<br> I'm a Software Engineer & Full Stack Developer from Dallas,TX.<br><br>#mongodb, #express, #react, #node</samp>
+  <samp>Hello there. I'm <a href="https://ibarrasb.github.io/eduardo-portfolio-react/">Eddie</a>.<br> I'm a Software Engineer & Full Stack Developer from Dallas,TX.<br><br>#mongodb, #express, #react, #node
+  & More..
+  </samp>
   <br>
   <br>
   <br>
