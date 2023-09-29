@@ -2,8 +2,8 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/ibarrasb/">Eddie</a>.<br> I'm a Software Engineer / Full Stack Developer from Dallas,TX.<br><br>#mongodb, #express, #react, #node, #swift
-  & More..
+  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/ibarrasb/">Eddie</a>.<br> I'm a Software Engineer / Full Stack Developer from Dallas,TX.<br><br>#javascript, #typescript, #java, #swift
+
   </samp>
   <br>
   <br>
