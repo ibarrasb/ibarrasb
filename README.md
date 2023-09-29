@@ -9,5 +9,5 @@
   <br>
   <br>
   <br>
-  <img src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="350" />
+  <img src="[https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif](https://www.ecentricarts.com/blog/9-content-mistakes/)https://www.ecentricarts.com/blog/9-content-mistakes/" width="350" />
 </p>
