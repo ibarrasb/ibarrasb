@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/ibarrasb/">Eddie</a>.<br> I'm a Software Engineer / Full Stack Developer from Dallas,TX.<br><br>#javascript, #typescript, #java, #swift
+  <samp>Hello there. I'm <a href="https://www.linkedin.com/in/ibarrasb/">Eddie</a>.<br>Software Engineer / Full Stack Developer from Dallas,TX.<br><br>#javascript, #typescript, #java, #swift
 
   </samp>
   <br>
