@@ -9,5 +9,5 @@
   <br>
   <br>
   <br>
-  <img src="[https://media.tenor.com/I3RjM4xQO0kAAAAi/monitors-typing.gif](https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809)" width="350" />
+  <img src="https://media.tenor.com/6JptszQgCnkAAAAi/text-work.gif" width="350" />
 </p>
