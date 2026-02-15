@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm Eddie</a>.<br>Software Engineer / Full Stack Developer from Dallas,TX.<br><br>#javascript, #typescript, #java, #aws
+  <samp><br>Software Engineer / Full Stack Developer from Dallas,TX.<br><br>#javascript, #typescript, #java, #aws
 
   </samp>
   <br>
